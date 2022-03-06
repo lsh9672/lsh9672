@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lsh9672/lsh9672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh9672&theme=cobalt&show_icons=true)
+
+<div align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh9672&theme=cobalt&show_icons=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh9672&layout=cobalt&theme=tokyonight)
+</div>
+
+#
