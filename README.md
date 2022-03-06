@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh9672&theme=cobalt&show_icons=true)
-</div>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh9672&layout=cobalt&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh9672&theme=cobalt&show_icons=true)
+#
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh9672&layout=cobalt&theme=tokyonight)
+ </div>
 
 #
