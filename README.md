@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh9672&theme=cobalt&show_icons=true)
  
-#
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh9672&layout=cobalt&theme=tokyonight)
- </div>
 
 #
