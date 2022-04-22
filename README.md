@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 # 😄 SANG HYEON LEE
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh9672&theme=cobalt&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh9672&layout=compact&theme=cobalt)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh9672)](https://solved.ac/lsh9672/)
