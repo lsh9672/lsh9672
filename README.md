@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 
 - 🤔 algorism
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh9672)](https://solved.ac/lsh9672/)
