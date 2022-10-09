@@ -7,7 +7,7 @@
     <!--블로그-->
     <a href="https://velog.io/@lsh9672">
       asdf
-      <img scr="[https://img.shields.io/badge/velog-blog-green?style=flat&logo=appveyor](https://img.shields.io/badge/velog-blog-green)"/>
+      <img scr="https://img.shields.io/badge/velog-blog-green"/>
     </a>
     
     <a href="https://delicate-utensil-152.notion.site/BE-43a77c3117454d6f9203d8c8f5638e99">
