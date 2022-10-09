@@ -8,12 +8,8 @@
     <!--블로그-->
     
     <a href="https://velog.io/@lsh9672">
-      asdf
       <img scr="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
     </a>
-    
-
-  
   </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh9672&theme=cobalt&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh9672&layout=compact&theme=cobalt)
