@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=60&section=header&text=Hi%20There&fontSize=50)
 
 <div align=center>
-  <h1 align=center>👨‍🎓About Me👨‍🎓</h1>
-  <p align=center>
+  <h1 align="center">👨‍🎓About Me👨‍🎓</h1>
+  <p align="center">
     <!--블로그-->
     
     <a href="https://velog.io/@lsh9672">
