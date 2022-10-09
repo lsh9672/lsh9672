@@ -75,3 +75,6 @@ Here are some ideas to get you started:
 -->
 
   </div>
+  
+  
+  ![footer](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=40&section=footer)
