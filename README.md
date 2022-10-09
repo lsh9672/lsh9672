@@ -6,9 +6,10 @@
   
   <p align="center">
     <!--블로그-->
+    <img scr="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
     <a href="https://velog.io/@lsh9672">
       ㅁㄴㅇㄹㅁㄴㅇ
-      <img scr="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
+      
     </a>
     <a href="https://delicate-utensil-152.notion.site/BE-43a77c3117454d6f9203d8c8f5638e99">
       ㅁㄴㅇㄹㅁㄴㅇ111
