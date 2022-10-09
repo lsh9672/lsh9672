@@ -46,10 +46,12 @@
     
   </p>
   
+  <!-- contact -->
+  <h1 align="center">👨‍💻Activity👨‍💻</h1>
   
-
-
-
+  
+  <!-- contact -->
+  <h1 align="center">📫Contact📫</h1>
   
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh9672&layout=compact&theme=cobalt) -->
 
