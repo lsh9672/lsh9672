@@ -11,14 +11,18 @@
     <a href="https://delicate-utensil-152.notion.site/BE-43a77c3117454d6f9203d8c8f5638e99">
         <img src="https://img.shields.io/badge/-resume-blue"/>
     </a>
-</p>
+  </p>
+  
+  <h3 align="center">✍Algorism✍</h3>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh9672)](https://solved.ac/lsh9672/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsh9672)](https://solved.ac/lsh9672/)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh9672&theme=cobalt&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh9672&layout=compact&theme=cobalt)
 
 
-- 🤔 algorism
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsh9672)](https://solved.ac/lsh9672/)
+
 
 
 <!--
