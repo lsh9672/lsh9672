@@ -3,19 +3,16 @@
 
 <div align=center>
   <h1 align="center">👨‍🎓About Me👨‍🎓</h1>
+  
   <p align="center">
     <!--블로그-->
     
     <a href="https://velog.io/@lsh9672">
       asdf
-      <img scr="https://img.shields.io/badge/velog-blog-green"/>
+      <img scr="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
     </a>
     
-    <a href="https://velog.io/@lsh9672">
-      asdf111
-      <img scr="https://img.shields.io/badge/velog-blog-green"/>
-    </a>
-    
+
   
   </p>
 
