@@ -8,7 +8,7 @@
     <!--블로그-->
     
     <a href="https://velog.io/@lsh9672">
-      <img scr="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github"/>
+      
     </a>
   </p>
 
