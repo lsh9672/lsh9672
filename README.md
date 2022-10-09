@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=60&section=header&text=Hi There&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=60&section=header&text=Hi%20There&fontSize=50)
 
 <div align=center>
 
