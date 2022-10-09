@@ -11,7 +11,7 @@
     </a>
     
     <a href="https://delicate-utensil-152.notion.site/BE-43a77c3117454d6f9203d8c8f5638e99">
-      <img scr=""
+      <img scr="https://img.shields.io/badge/velog-blog-green"/>
     </a>
   
   </p>
