@@ -6,7 +6,7 @@
   <p>
     <!--블로그-->
     <a href="https://velog.io/@lsh9672">
-      <img scr="https://img.shields.io/badge/-blog-green?style=flat-square"/>
+      <img scr="https://img.shields.io/badge/velog-blog-green?style=flat&logo=appveyor"/>
     </a>
   
   </p>
