@@ -2,8 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=60&section=header&text=Hi%20There&fontSize=50)
 
 <div align=center>
-  <h1 align=cneter>👨‍🎓About Me👨‍🎓</h1>
-  <p>
+  <h1 align=center>👨‍🎓About Me👨‍🎓</h1>
+  <p align=center>
     <!--블로그-->
     
     <a href="https://velog.io/@lsh9672">
@@ -12,7 +12,7 @@
     </a>
     
     <a href="https://velog.io/@lsh9672">
-      asdf
+      asdf111
       <img scr="https://img.shields.io/badge/velog-blog-green"/>
     </a>
     
