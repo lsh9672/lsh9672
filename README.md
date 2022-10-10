@@ -49,7 +49,23 @@
   <!-- contact -->
   <h1 align="center">👨‍💻Activity👨‍💻</h1>
   
+  <h3 align="center">✍Certificate✍</h3>
   
+  |Certificate|Date|
+  |:--:|:--:|
+  |정보처리기사|2021|
+  
+  
+  <h3 align="center">👨‍💼Organization👨‍💼</h3>
+  
+  |Organization|Position|Date|
+  |:--:|:--:|:--:|
+  |Ssafy|교육생|2022.07~|
+  |엣지 아이랩|현장실습|2021.09~2021.12|
+  |한국전자통신연구원|인턴|2021.07~2021.08|
+  
+  
+ 
   <!-- contact -->
   <h1 align="center">📫Contact📫</h1>
   <p>
