@@ -68,10 +68,11 @@
  
   <!-- contact -->
   <h1 align="center">📫Contact📫</h1>
-  <p>
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsh80165@gmail.com"/>
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:lsh80165@naver.com"/>
-  </p>
+  
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsh80165@gmail.com)](mailto:lsh80165@gmail.com)
+  [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:sh80165@naver.com)](mailto:sh80165@naver.com)
+  
+  
   
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lsh9672&layout=compact&theme=cobalt) -->
 
