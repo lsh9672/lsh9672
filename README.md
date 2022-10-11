@@ -15,7 +15,7 @@
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lsh9672&theme=cobalt&show_icons=true)
   
-  <h3 align="center">✍Algorism✍</h3>
+  <h3 align="center">✍Algorithm✍</h3>
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=lsh9672)](https://solved.ac/lsh9672/)
   
