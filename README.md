@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/Flask-black?&style=for-the-badge&logo=Flask&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-007ACC.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-F05032.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/>
     
   </p>
   
