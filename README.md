@@ -55,6 +55,7 @@
   |Certificate|Date|
   |:--:|:--:|
   |정보처리기사|2021|
+  |OPIc - IM2|2023|
   
   
   <h3 align="center">👨‍💼Organization👨‍💼</h3>
