@@ -57,6 +57,7 @@
   |정보처리기사|2021|
   |OPIc - IM2|2023|
   |SQLD|2023|
+  |AWS Certified Security - Specialty|2024|
   
   
   <h3 align="center">👨‍💼Organization👨‍💼</h3>
