@@ -47,29 +47,6 @@
     
   </p>
   
-  <!-- contact -->
-  <h1 align="center">👨‍💻Activity👨‍💻</h1>
-  
-  <h3 align="center">✍Certificate✍</h3>
-  
-  |Certificate|Date|
-  |:--:|:--:|
-  |정보처리기사|2021|
-  |OPIc - IM2|2023|
-  |SQLD|2023|
-  |AWS Certified Security - Specialty|2024|
-  |AWS Certified Developer - Associate|2024|
-  
-  
-  <h3 align="center">👨‍💼Organization👨‍💼</h3>
-  
-  |Organization|Position|Date|
-  |:--:|:--:|:--:|
-  |KT DS|SW 개발자|2023.06 ~ |
-  |SSAFY|8th|2022.07 ~ 2023.06|
-  |엣지 아이랩|현장실습|2021.09 ~ 2021.12|
-  |한국전자통신연구원|인턴|2021.07 ~ 2021.08|
-  
   
  
   <!-- contact -->
